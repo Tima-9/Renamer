@@ -1,0 +1,9 @@
+{
+  "analyzing": {
+    "name/num/message": "\n{color1}{file_name}{color2}:{color_reset}{num}{color2}: {color3}{message}",
+    "first_line": "{style1}{color1}      | {color_reset}{style_reset}",
+    "warning/message:1": "{style1}{color1}{value1} | {color_reset}{style_reset} {value2}",
+    "warning/message:2": "{style1}{color1}      | {style_reset}{color_2} {spaces_count}{symbol_count} {message}",
+    "help_message": "{style1}{color1}      = {color2}help: {color_reset}{style_reset}{message}"
+  }
+}
